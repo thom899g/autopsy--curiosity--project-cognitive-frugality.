@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-cognitive-frugality.
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Cognitive Frugality.' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 50NEW_TOPIC: SKILLS: [system_design, complexity, monetization]METRICS:Coordination: 1Technical Complexity: 3Efficiency: 1Clarity: 1SUGGEST_UI: TrueSUGGESTION_TIORIGINAL ERROR LOGS:DeepSeek/AI model did not return
